@@ -1,6 +1,6 @@
 {
   "name": "@asvla/next-pwa",
-  "version": "5.6.1",
+  "version": "5.6.2",
   "description": "Next.js with PWA, powered by workbox.",
   "main": "index.js",
   "repository": "https://github.com/Asvla/next-pwa",
@@ -19,7 +19,7 @@
     "clean-webpack-plugin": "^4.0.0",
     "globby": "^11.0.4",
     "terser-webpack-plugin": "^5.3.3",
-    "@asvla/workbox-webpack-plugin": "^7.3.0",
+    "@asvla/workbox-webpack-plugin": "^7.3.1",
     "workbox-window": "^6.5.4"
   },
   "devDependencies": {
