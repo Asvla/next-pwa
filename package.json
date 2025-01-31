@@ -19,7 +19,7 @@
     "clean-webpack-plugin": "^4.0.0",
     "globby": "^11.0.4",
     "terser-webpack-plugin": "^5.3.3",
-    "@asvla/workbox-webpack-plugin": "^7.3.5",
+    "@asvla/workbox-webpack-plugin": "^7.3.6",
     "workbox-window": "^6.5.4"
   },
   "devDependencies": {
